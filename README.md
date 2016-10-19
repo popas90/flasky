@@ -1,2 +1,2 @@
 # flasky
-Implementation following Miguel Grinberg's Flask book.
+Implementation following Miguel Grinberg's Flask tutorial.
